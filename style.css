@@ -1,0 +1,57 @@
+@import url(http://fonts.googleapis.com/css?family=Carrois+Gothic);
+
+h3 {
+  padding: 1%;
+  text-align: center;
+}
+body {
+  font-family: Carrois Gothic;
+  background-color: #8ce8cc;
+}
+
+input {
+  padding: 1%;
+}
+
+table {
+  padding: 1%;
+}
+
+th {
+  padding-right: 1%;
+  text-align: left;
+}
+
+td {
+  padding-right: 1%;
+}
+
+#text-content {
+  margin: 0 auto;
+  white-space: nowrap;
+}
+
+#form {
+  padding: 1%;
+  display: flex;
+}
+
+#img1 {
+  height: 45%;
+  width: 45%;
+}
+
+#img2 {
+  height: 45%;
+  width: 45%;
+}
+
+#myTable {
+  white-space: nowrap;
+}
+
+#wrapper {
+  margin-right: auto;
+  margin-left: auto;
+  width: 96%;
+}
